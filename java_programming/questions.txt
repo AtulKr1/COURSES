@@ -1,0 +1,9 @@
+1. Multiple inheritance
+2. overloading and overriding
+3. dynamic dispatch
+4. super in java
+5. thread synchronization
+6. wrapper class (unboxing and autoboxing)
+7. file handeling
+8. applet program (to create indian flag)
+9. java swing (create a login form)
