@@ -1,0 +1,7 @@
+Q1. Write a program to implement FCSF algorithm also display its gantt chart using C code.
+
+Q2. Write a program to show SJF algorithm and also show its gantt chart.
+
+Q3. Write a program that will show Round Robin algorithm using C code.
+
+Q3. Write a program that will show priority scheduling algorithm using C code.
