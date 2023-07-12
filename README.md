@@ -1,3 +1,3 @@
 # COURSES
 
-Contains University Courses Code
+Contains University Code
